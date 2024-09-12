@@ -2,5 +2,3 @@
 b test file 
 
 b modified 1
-
-modified 3
